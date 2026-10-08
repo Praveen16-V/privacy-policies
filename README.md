@@ -7,6 +7,7 @@ Privacy policies for games made by Praveen Velumani, published with GitHub Pages
 |---|---|
 | Impostor Word | <https://praveen16-v.github.io/privacy-policies/impostor-word/> (Terms of Use: <https://praveen16-v.github.io/privacy-policies/impostor-word/terms/>) |
 | Hexcape | <https://praveen16-v.github.io/privacy-policies/hexcape/> (Terms of Use: <https://praveen16-v.github.io/privacy-policies/hexcape/terms/>) |
+| Plate Escape | <https://praveen16-v.github.io/privacy-policies/plate-escape/> (Terms of Use: <https://praveen16-v.github.io/privacy-policies/plate-escape/terms/>) |
 
 ## Adding a game
 
